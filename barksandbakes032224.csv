@@ -1,0 +1,47 @@
+utterance,pos_neg,pos_neg_neutral
+I'm not satisfied with the quality of the treats.,Negative,Negative
+My dog didn't enjoy the treats I bought.,Negative,Negative
+I'm disappointed with the variety of treats.,Negative,Negative
+Your treats are a bit expensive.,Negative,Negative
+The treats are a bit too hard for my senior dog.,Negative,Negative
+Your treats are a bit too soft for my liking.,Negative,Negative
+The treats were a bit stale.,Negative,Negative
+Your treats are a bit crumbly.,Negative,Negative
+My dog enjoyed you’re the treats,Positive,Positive
+My dog was happy with the treats,Positive,Positive
+Very satisified with the treats,Positive,Positive
+My dog was overjoyed,Positive,Positive
+My dog is picky but loved them,Positive,Positive
+Content canine snack preferences,Positive,Positive
+Cheerful dog treat enjoyment,Positive,Positive
+Pleased pet food preferences,Positive,Positive
+Satisfied dog dietary choices,Positive,Positive
+Excited canine snack habits,Positive,Positive
+Thrilled dog treat preferences,Positive,Positive
+Happy dog he ate them all,Positive,Positive
+Very healthy,Positive,Positive
+Upset my  dogs stomach,Negative,Negative
+"Dog would not eat them,",Negative,Negative
+Dog didn’t like the,Negative,Negative
+Dissatisfied dog ,Negative,Negative
+Treat was molded,Negative,Negative
+Treat was broken,Negative,Negative
+Disappointed  reactions,Negative,Negative
+Unfulfilled dog ,Negative,Negative
+Poor packaging,Negative,Negative
+Treats were Too expensive,Negative,Negative
+Treats were too small,Negative,Negative
+Did not receive the treats,Negative,Negative
+My dog could not eat them,Negative,Negative
+My dog loves your treats!,Positive,Positive
+The packaging of your treats is adorable!,Positive,Positive
+The pricing of your treats is reasonable.,Positive,Positive
+The treats arrived in perfect condition!,Positive,Positive
+Your treats are a hit in our household!,Positive,Positive
+The treats were a big hit at the dog park!,Positive,Positive
+Your treats are a staple in our monthly pet budget.,Positive,Positive
+The treats have a pleasant aroma!,Positive,Positive
+Your treats have improved my dog's coat condition!,Positive,Positive
+Your treats are the highlight of our training sessions!,Positive,Positive
+My dog is a fan of the peanut butter-flavored treats!,Positive,Positive
+The treats are a lifesaver during obedience training!,Positive,Positive
