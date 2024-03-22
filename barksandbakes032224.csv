@@ -1,4 +1,4 @@
-utterance,pos_neg,pos_neg_neutral
+utterance,pos_neg,pos_neg
 I'm not satisfied with the quality of the treats.,Negative,Negative
 My dog didn't enjoy the treats I bought.,Negative,Negative
 I'm disappointed with the variety of treats.,Negative,Negative
@@ -7,7 +7,7 @@ The treats are a bit too hard for my senior dog.,Negative,Negative
 Your treats are a bit too soft for my liking.,Negative,Negative
 The treats were a bit stale.,Negative,Negative
 Your treats are a bit crumbly.,Negative,Negative
-My dog enjoyed you’re the treats,Positive,Positive
+My dog enjoyed youâ€™re the treats,Positive,Positive
 My dog was happy with the treats,Positive,Positive
 Very satisified with the treats,Positive,Positive
 My dog was overjoyed,Positive,Positive
@@ -22,7 +22,7 @@ Happy dog he ate them all,Positive,Positive
 Very healthy,Positive,Positive
 Upset my  dogs stomach,Negative,Negative
 "Dog would not eat them,",Negative,Negative
-Dog didn’t like the,Negative,Negative
+Dog didnâ€™t like the,Negative,Negative
 Dissatisfied dog ,Negative,Negative
 Treat was molded,Negative,Negative
 Treat was broken,Negative,Negative
